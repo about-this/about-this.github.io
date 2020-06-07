@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'throbbing-mud-3a87.lettenbweija.workers.dev': 1,
       }
     },
     
@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'https://dry-wildflower-f814.lettenbweija.workers.dev': 1,
       }
     },
     
@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'https://dawn-rain-e2b1.jeslynijcrtlx.workers.dev': 1,
       }
     },
   
@@ -36,7 +36,7 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        '444.444.workers.dev': 1,
+        'https://dawn-rain-e2b1.jeslynijcrtlx.workers.dev': 1,
       },
     },
     
